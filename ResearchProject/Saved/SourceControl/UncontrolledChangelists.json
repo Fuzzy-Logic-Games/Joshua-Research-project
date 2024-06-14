@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/MDS/TestingJoshgame/Joshua-Research-project/ResearchProject/Content/ThirdPerson/Blueprints/BP_Level.uasset",
-				"C:/MDS/TestingJoshgame/Joshua-Research-project/ResearchProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y6/P5WB2A6WCRFION3Q8B1L9M.uasset",
 				"C:/Users/Josh/Documents/MDS Unreal Engine/Year 3/ResearchProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Josh/Documents/MDS Unreal Engine/Year 3/ResearchProject/Content/ThirdPerson/Blueprints/BP_LevelChunkBase.uasset",
 				"C:/Users/Josh/Documents/MDS Unreal Engine/Year 3/ResearchProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
@@ -54,6 +52,9 @@
 				"C:/Users/Josh/Documents/MDS Unreal Engine/Year 3/ResearchProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/IE/V7ZH3N69PMKIA47ZGCM13J.uasset",
 				"C:/Users/Josh/Documents/MDS Unreal Engine/Year 3/ResearchProject/Content/ThirdPerson/Blueprints/BP_InputNode.uasset",
 				"C:/Users/Josh/Documents/MDS Unreal Engine/Year 3/ResearchProject/Content/ThirdPerson/Blueprints/BP_OutputNode.uasset",
+				"C:/Users/Josh/Documents/GitHub/Joshua-Research-project/ResearchProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y6/P5WB2A6WCRFION3Q8B1L9M.uasset",
+				"C:/MDS/TestingJoshgame/Joshua-Research-project/ResearchProject/Content/ThirdPerson/Blueprints/BP_Level.uasset",
+				"C:/MDS/TestingJoshgame/Joshua-Research-project/ResearchProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/Y6/P5WB2A6WCRFION3Q8B1L9M.uasset",
 				"C:/Users/Josh/Documents/MDS Unreal Engine/Year 3/ResearchProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/HB/4BPEUKD9GA15L5GYHCBX3G.uasset",
 				"C:/Users/Josh/Documents/MDS Unreal Engine/Year 3/ResearchProject/Content/ThirdPerson/Blueprints/LevelChunks/BP_WindChunk.uasset",
 				"C:/Users/Josh/Documents/MDS Unreal Engine/Year 3/ResearchProject/Content/ThirdPerson/Blueprints/BP_WindCollider.uasset",
